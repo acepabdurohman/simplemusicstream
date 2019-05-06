@@ -1,0 +1,2 @@
+1|Spotify Premium Personal|20
+2|Spotify Premium Student|10
